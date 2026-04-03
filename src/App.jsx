@@ -231,7 +231,7 @@ const HomePage = ({ setCurrentPage }) => (
       
       <div className="relative z-10 max-w-5xl mx-auto w-full px-6 text-center">
         <Reveal>
-          <span className="text-zinc-900 text-[10px] font-bold uppercase tracking-[0.4em] mb-4 block">North Carolina — Est. 2026</span>
+          <span className="text-zinc-900 text-[10px] font-bold uppercase tracking-[0.4em] mb-4 block">North Carolina Â— Est. 2026</span>
         </Reveal>
         <Reveal delay={0.4}>
           <h1 className="text-4xl md:text-6xl font-serif text-zinc-900 mb-8 tracking-tight leading-[1.1]">
@@ -439,7 +439,7 @@ const Footer = () => (
         <p className="text-[8px] text-zinc-400 tracking-widest uppercase mt-1">North Carolina Premier Real Estate</p>
       </div>
       <div className="text-zinc-300 text-[10px] tracking-widest uppercase font-medium">
-        © 2026 Velmor Agency - Member of NC Realtor Association
+        Â© 2026 Velmor Agency - Member of NC Realtor Association
       </div>
     </div>
   </footer>
